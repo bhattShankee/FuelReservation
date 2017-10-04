@@ -1,2 +1,3 @@
 # FuelReservation
-This is mine 8th semester project.This project basically developed in concept how to provide fuel easily to different distributor's customer.
+This project is Fully java spring MVC project.
+In this i use hibernate too
